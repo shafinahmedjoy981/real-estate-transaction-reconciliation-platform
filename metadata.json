@@ -1,0 +1,6 @@
+{
+  "name": "Docket Sage",
+  "description": "Deadline-first legal case management tool for solo and small-firm lawyers to prevent malpractice and missed court dates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
